@@ -1,1 +1,3 @@
 # Foo
+
+[google](google.com)
